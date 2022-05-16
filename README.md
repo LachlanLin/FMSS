@@ -2,4 +2,14 @@
 
 The experiments codes for our FMSS.
 
-The datasets, codes and scripts will be made publicly available once the paper is accepted.
+## Requirements
+
+We use the following software to run our codes.
+
+- Java==11.0
+- Python==3.6
+- PyTorch==1.10
+
+## Contact
+
+If you have any problem with the codes, please contact us by email in our paper.
